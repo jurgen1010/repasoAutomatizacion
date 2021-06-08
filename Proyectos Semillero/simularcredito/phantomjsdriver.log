@@ -1,0 +1,45 @@
+[INFO  - 2018-10-23T20:31:28.034Z] GhostDriver - Main - running on port 6642
+[INFO  - 2018-10-23T20:31:28.683Z] Session [9eab4110-d702-11e8-b67f-a7bbbad6b611] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-23T20:31:28.684Z] Session [9eab4110-d702-11e8-b67f-a7bbbad6b611] - page.customHeaders:  - {}
+[INFO  - 2018-10-23T20:31:28.733Z] Session [9eab4110-d702-11e8-b67f-a7bbbad6b611] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-23T20:31:28.733Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9eab4110-d702-11e8-b67f-a7bbbad6b611
+[ERROR - 2018-10-23T20:31:41.988Z] Session [9eab4110-d702-11e8-b67f-a7bbbad6b611] - page.onError - msg: ReferenceError: Can't find variable: GTM_searchClick
+[ERROR - 2018-10-23T20:31:41.989Z] Session [9eab4110-d702-11e8-b67f-a7bbbad6b611] - page.onError - stack:
+  (anonymous function) (undefined:1)
+  each (https://www.grupobancolombia.com/Bancolombia_Personas_Info/themes/Bancolombia_Personas/js/jquery-1.10.2.min.js:3)
+  each (https://www.grupobancolombia.com/Bancolombia_Personas_Info/themes/Bancolombia_Personas/js/jquery-1.10.2.min.js:3)
+  CTL_SearchBind (:1)
+  (anonymous function) (:1)
+  dispatch (https://www.grupobancolombia.com/Bancolombia_Personas_Info/themes/Bancolombia_Personas/js/jquery-1.10.2.min.js:4)
+  handle (https://www.grupobancolombia.com/Bancolombia_Personas_Info/themes/Bancolombia_Personas/js/jquery-1.10.2.min.js:4)
+[INFO  - 2018-10-23T20:32:19.535Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2018-10-23T20:36:49.146Z] GhostDriver - Main - running on port 36255
+[INFO  - 2018-10-23T20:36:49.851Z] Session [5e179e40-d703-11e8-8cba-9f8e968dad64] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-23T20:36:49.851Z] Session [5e179e40-d703-11e8-8cba-9f8e968dad64] - page.customHeaders:  - {}
+[INFO  - 2018-10-23T20:36:49.852Z] Session [5e179e40-d703-11e8-8cba-9f8e968dad64] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-23T20:36:49.852Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5e179e40-d703-11e8-8cba-9f8e968dad64
+[ERROR - 2018-10-23T20:37:02.787Z] Session [5e179e40-d703-11e8-8cba-9f8e968dad64] - page.onError - msg: ReferenceError: Can't find variable: GTM_searchClick
+[ERROR - 2018-10-23T20:37:02.788Z] Session [5e179e40-d703-11e8-8cba-9f8e968dad64] - page.onError - stack:
+  (anonymous function) (undefined:1)
+  each (https://www.grupobancolombia.com/Bancolombia_Personas_Info/themes/Bancolombia_Personas/js/jquery-1.10.2.min.js:3)
+  each (https://www.grupobancolombia.com/Bancolombia_Personas_Info/themes/Bancolombia_Personas/js/jquery-1.10.2.min.js:3)
+  CTL_SearchBind (:1)
+  (anonymous function) (:1)
+  dispatch (https://www.grupobancolombia.com/Bancolombia_Personas_Info/themes/Bancolombia_Personas/js/jquery-1.10.2.min.js:4)
+  handle (https://www.grupobancolombia.com/Bancolombia_Personas_Info/themes/Bancolombia_Personas/js/jquery-1.10.2.min.js:4)
+[INFO  - 2018-10-23T20:37:38.590Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2018-10-23T20:52:56.572Z] GhostDriver - Main - running on port 35721
+[INFO  - 2018-10-23T20:52:57.116Z] Session [9ea2ae30-d705-11e8-aee8-c5df9d9c6fee] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-23T20:52:57.116Z] Session [9ea2ae30-d705-11e8-aee8-c5df9d9c6fee] - page.customHeaders:  - {}
+[INFO  - 2018-10-23T20:52:57.116Z] Session [9ea2ae30-d705-11e8-aee8-c5df9d9c6fee] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-23T20:52:57.117Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9ea2ae30-d705-11e8-aee8-c5df9d9c6fee
+[ERROR - 2018-10-23T20:53:10.067Z] Session [9ea2ae30-d705-11e8-aee8-c5df9d9c6fee] - page.onError - msg: ReferenceError: Can't find variable: GTM_searchClick
+[ERROR - 2018-10-23T20:53:10.068Z] Session [9ea2ae30-d705-11e8-aee8-c5df9d9c6fee] - page.onError - stack:
+  (anonymous function) (undefined:1)
+  each (https://www.grupobancolombia.com/Bancolombia_Personas_Info/themes/Bancolombia_Personas/js/jquery-1.10.2.min.js:3)
+  each (https://www.grupobancolombia.com/Bancolombia_Personas_Info/themes/Bancolombia_Personas/js/jquery-1.10.2.min.js:3)
+  CTL_SearchBind (:1)
+  (anonymous function) (:1)
+  dispatch (https://www.grupobancolombia.com/Bancolombia_Personas_Info/themes/Bancolombia_Personas/js/jquery-1.10.2.min.js:4)
+  handle (https://www.grupobancolombia.com/Bancolombia_Personas_Info/themes/Bancolombia_Personas/js/jquery-1.10.2.min.js:4)
+[INFO  - 2018-10-23T20:53:46.514Z] ShutdownReqHand - _handle - About to shutdown

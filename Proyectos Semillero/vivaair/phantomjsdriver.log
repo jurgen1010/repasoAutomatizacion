@@ -1,0 +1,15 @@
+[INFO  - 2018-10-22T13:27:15.989Z] GhostDriver - Main - running on port 4839
+[INFO  - 2018-10-22T13:27:19.090Z] Session [331e18a0-d5fe-11e8-b72a-450bb0037e1f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-22T13:27:19.091Z] Session [331e18a0-d5fe-11e8-b72a-450bb0037e1f] - page.customHeaders:  - {}
+[INFO  - 2018-10-22T13:27:19.092Z] Session [331e18a0-d5fe-11e8-b72a-450bb0037e1f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-22T13:27:19.093Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 331e18a0-d5fe-11e8-b72a-450bb0037e1f
+[ERROR - 2018-10-22T13:27:30.265Z] Session [331e18a0-d5fe-11e8-b72a-450bb0037e1f] - page.onError - msg: XHR ERROR: Scarab request failed https://recommender.scarabresearch.com/merchants/1F1A12C685554CF6/?pv=233244494&xp=1&cp=1 [object XMLHttpRequestProgressEvent]
+[ERROR - 2018-10-22T13:27:30.265Z] Session [331e18a0-d5fe-11e8-b72a-450bb0037e1f] - page.onError - stack:
+  onerror (https://cdn.scarabresearch.com/js/1F1A12C685554CF6/scarab-v2.js:1920)
+[ERROR - 2018-10-22T13:27:41.778Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1540214861767
+[ERROR - 2018-10-22T13:27:42.533Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1540214862529
+[ERROR - 2018-10-22T13:27:43.242Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1540214863188
+[ERROR - 2018-10-22T13:27:43.900Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1540214863874
+[ERROR - 2018-10-22T13:27:44.538Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1540214864486
+[ERROR - 2018-10-22T13:27:47.980Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1540214867955
+[INFO  - 2018-10-22T13:27:48.898Z] ShutdownReqHand - _handle - About to shutdown

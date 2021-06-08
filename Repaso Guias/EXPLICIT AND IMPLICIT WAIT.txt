@@ -1,0 +1,8 @@
+//--ESPERA IMPLICITA--
+//BrowseTheWeb.as(actor).getDriver().manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS); 
+
+//--ESPERA EXPLICITA-- 
+//        WebDriverWait wait = new WebDriverWait(BrowseTheWeb.as(actor).getDriver(), 5);
+//        wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
+
+//InscriptionInvoices.BTN_REGISTER_INSCRIPCION.resolveFor(actor).waitUntilVisible().withTimeoutOf(3, TimeUnit.SECONDS);

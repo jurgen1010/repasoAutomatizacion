@@ -1,0 +1,3 @@
+NU0064001_Seguros_MR_Test
+
+ms_parametrizacion/*
